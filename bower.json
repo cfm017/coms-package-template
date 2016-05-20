@@ -1,0 +1,19 @@
+{
+  "name": "common-coms",
+  "dependencies": {
+    "angular": "1.5.0",
+    "ag-grid": "3.2.2"
+  },
+  "description": "",
+  "main": "common-coms.js",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "src",
+    "test",
+    "gulpfile.js",
+    "package.json",
+    "packages.config",
+    "*.csproj*"
+  ]
+}

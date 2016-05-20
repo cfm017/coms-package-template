@@ -1,1 +1,1 @@
-# coms-package-template
+# COMMON
